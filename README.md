@@ -4,10 +4,7 @@ Cultivando criatividade através da natação, das artes em geral e da Fórmula 
 
 ##
 <br>
-<div align="center">  
-  <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariaclarareginato&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=FF00F6&bg_color=1C1C1C" alt="Max Muller github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclarareginato&layout=compact&hide_border=true&title_color=FF00F6&text_color=FF00F6&bg_color=1C1C1C&icon_color=FF00F6" />
-</div>
+
 
 ##
 
@@ -29,17 +26,45 @@ Cultivando criatividade através da natação, das artes em geral e da Fórmula 
 
 ###  Contato
 
+<style>
+  
+  a {
+    text-decoration: none !important;
+  }
+</style>
+
+### Contato
+
 <p align="left">
+
+  <!-- EMAIL -->
   <a href="mailto:mariaclarareginato8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-mariaclarareginato8@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img 
+      src="https://img.shields.io/badge/Email-mariaclarareginato8@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email"
+    />
   </a>
+
+  <!-- LINKEDIN (CORRIGIDO SEM UNDERLINE NO TEXTO) -->
   <a href="https://www.linkedin.com/in/maria-clara-reginato-b44b63339/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Maria_Clara_Reginato-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Maria%20Clara%20Reginato-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
   </a>
-  <a href="https://portifolio-omega-one-59.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-Projetos Maria.C-%23ff69b4?style=for-the-badge&logo=linktree&logoColor=white" alt="Portfólio"/>
+
+  <!-- PORTFÓLIO -->
+  <a href="SEU_LINK_DO_PORTFOLIO" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Portfólio-Projetos%20Maria.C-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white" 
+      alt="Portfólio"
+    />
   </a>
+
 </p>
+
+
+
 
 ---
 
