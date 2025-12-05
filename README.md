@@ -10,8 +10,9 @@ Always exploring new technologies and creative solutions.
 Cultivating creativity through swimming, the arts in general, and Formula 1 — hobbies that bring balance, focus, and a keen eye for innovative solutions.
 
 ##
-
-<img align="center" alt="" height="190px" src="./study.gif">
+<div align="center">
+<img  alt="gif" height="700px" src="./study.gif">
+</div>
 
 ##
 
@@ -34,12 +35,15 @@ Cultivating creativity through swimming, the arts in general, and Formula 1 — 
 
 
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=32&pause=500&color=A020F0&width=435&lines=Me+contate!" alt="Typing SVG" />
-</p>
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&pause=500&color=FFF&width=435&lines=Contact+me!" alt="Typing SVG" />
-</p>
+<div align="center">
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=32&pause=900&color=A020F0&center=true&vCenter=true&width=500&lines=Me+contate!" 
+    alt="Typing SVG"
+  />
+
+</div>
+
 
 [![E-mail](https://img.shields.io/badge/Email-mariaclarareginato8@gmail.com-6A0DAD?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mariaclarareginato8@gmail.com)
 
