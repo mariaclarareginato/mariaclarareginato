@@ -35,7 +35,7 @@ Cultivando criatividade através da natação, das artes em geral e da Fórmula 
 
 ### Contato
 
-<p align="left">
+<p align="center">
 
   <!-- EMAIL -->
   <a href="mailto:mariaclarareginato8@gmail.com" target="_blank">
