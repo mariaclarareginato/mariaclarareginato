@@ -1,20 +1,31 @@
-<strong class="text-lg">Desenvolvedora de Sistemas em formação, com foco em Frontend <strong> | <br> Criadora de interfaces intuitivas, interativas, acessíveis e atraentes. <br>
-Sempre explorando novas tecnologias e soluções criativas. Cultivando criatividade através da natação, das artes em geral e da Fórmula 1 — hobbies que trazem equilíbrio, foco e um olhar sensível para soluções inovadoras.
+<h1>
+  <font color="#ff4dd8">Maria Clara Reginato</font>
+</h1>
+
+
+
+<strong>Desenvolvedora de Sistemas em formação, com foco em Frontend <strong> | 
+<p> Criadora de interfaces intuitivas, interativas, acessíveis e atraentes. 
+Sempre explorando novas tecnologias e soluções criativas. Cultivando criatividade através da natação, das artes em geral e da Fórmula 1 — hobbies que trazem equilíbrio, foco e um olhar sensível para soluções inovadoras.</p>
 
 <br>
-
 <br>
 
-Systems Developer in training, focused on Frontend | <br> Creator of intuitive, interactive, accessible, and attractive interfaces.
+<strong>Systems Developer in training, focused on Frontend<strong> | 
+
+ <p>Creator of intuitive, interactive, accessible, and attractive interfaces.
 Always exploring new technologies and creative solutions.
-Cultivating creativity through swimming, the arts in general, and Formula 1 — hobbies that bring balance, focus, and a keen eye for innovative solutions.
+Cultivating creativity through swimming, the arts in general, and Formula 1 — hobbies that bring balance, focus, and a keen eye for innovative solutions.</p>
 
 ##
+<br>
+
 <div align="center">
-<img  alt="gif" height="700px" src="./study.gif">
+  <img alt="gif" width="500px" src="./study.gif">
 </div>
+<br>
 
-##
+
 
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,32 +39,54 @@ Cultivating creativity through swimming, the arts in general, and Formula 1 — 
   <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
+
+
+
 ##
 
+<div>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=32&pause=500&center=true&color=A020F0&width=500&lines=Me+contate!" 
+        alt="Typing SVG"
+      />
+      <br>
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=25&pause=500&center=true&color=FFFFFF&width=500&lines=Contact+me!" 
+        alt="Typing SVG"
+      />
+      <br>
+    </td>
+    <td align="right" width="50%">
+      <a href="mailto:mariaclarareginato8@gmail.com">
+        <img 
+          src="https://img.shields.io/badge/Email-mariaclarareginato8@gmail.com-6A0DAD?style=for-the-badge&logoColor=white"
+        />
+      </a>
+      <br>
+      <a href="https://www.linkedin.com/in/maria-clara-reginato-b44b63339/">
+        <img 
+          src="https://img.shields.io/badge/LinkedIn-Maria%20Clara%20Reginato-6A0DAD?style=for-the-badge&logoColor=white"
+        />
+      </a>
+      <br>
+      <a href="https://portifolio-omega-one-59.vercel.app">
+        <img 
+          src="https://img.shields.io/badge/Portfólio-Projetos%20Maria.C-6A0DAD?style=for-the-badge&logoColor=white"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+</tr>
+<div>
 
 
-
-
-
-<div align="center">
-
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=32&pause=900&color=A020F0&center=true&vCenter=true&width=500&lines=Me+contate!" 
-    alt="Typing SVG"
-  />
-
-</div>
-
-
-[![E-mail](https://img.shields.io/badge/Email-mariaclarareginato8@gmail.com-6A0DAD?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mariaclarareginato8@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria%20Clara%20Reginato-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-reginato-b44b63339/)
-
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Projetos%20Maria.C-6A0DAD?style=for-the-badge&logo=portifolio&logoColor=white)](SEU_LINK_AQUI)
-
-
-
----
+##
 
 
 <picture align="center">
