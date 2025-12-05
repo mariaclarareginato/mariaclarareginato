@@ -1,14 +1,21 @@
-Desenvolvedora de Sistemas em formação, com foco em Frontend | Criadora de interfaces intuitivas, interativas, acessíveis e atraentes. <br>
-Sempre explorando novas tecnologias e soluções criativas.<br>
-Cultivando criatividade através da natação, das artes em geral e da Fórmula 1 — hobbies que trazem equilíbrio, foco e um olhar sensível para soluções inovadoras.
+<strong class="text-lg">Desenvolvedora de Sistemas em formação, com foco em Frontend <strong> | <br> Criadora de interfaces intuitivas, interativas, acessíveis e atraentes. <br>
+Sempre explorando novas tecnologias e soluções criativas. Cultivando criatividade através da natação, das artes em geral e da Fórmula 1 — hobbies que trazem equilíbrio, foco e um olhar sensível para soluções inovadoras.
 
-##
 <br>
 
+<br>
+
+Systems Developer in training, focused on Frontend | <br> Creator of intuitive, interactive, accessible, and attractive interfaces.
+Always exploring new technologies and creative solutions.
+Cultivating creativity through swimming, the arts in general, and Formula 1 — hobbies that bring balance, focus, and a keen eye for innovative solutions.
 
 ##
 
-<div style="display: inline_block"><br>
+<img align="center" alt="" height="190px" src="./src/study.gif">
+
+##
+
+<div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,45 +31,21 @@ Cultivando criatividade através da natação, das artes em geral e da Fórmula 
 
 
 
-###  Contato
 
-<style>
-  
-  a {
-    text-decoration: none !important;
-  }
-</style>
 
-### Contato
 
-<p align="center">
-
-  <!-- EMAIL -->
-  <a href="mailto:mariaclarareginato8@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Email-mariaclarareginato8@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Email"
-    />
-  </a>
-
-  <!-- LINKEDIN (CORRIGIDO SEM UNDERLINE NO TEXTO) -->
-  <a href="https://www.linkedin.com/in/maria-clara-reginato-b44b63339/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-Maria%20Clara%20Reginato-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
-  </a>
-
-  <!-- PORTFÓLIO -->
-  <a href="SEU_LINK_DO_PORTFOLIO" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Portfólio-Projetos%20Maria.C-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white" 
-      alt="Portfólio"
-    />
-  </a>
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=32&pause=500&color=A020F0&width=435&lines=Me+contate!" alt="Typing SVG" />
+</p>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&pause=500&color=FFF&width=435&lines=Contact+me!" alt="Typing SVG" />
 </p>
 
+[![E-mail](https://img.shields.io/badge/Email-mariaclarareginato8@gmail.com-6A0DAD?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mariaclarareginato8@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria%20Clara%20Reginato-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-reginato-b44b63339/)
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Projetos%20Maria.C-6A0DAD?style=for-the-badge&logo=portifolio&logoColor=white)](SEU_LINK_AQUI)
 
 
 
