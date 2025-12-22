@@ -14,6 +14,7 @@ Sempre explorando novas tecnologias e soluções criativas. Cultivando criativid
 //
 
 
+
 <strong>Systems Developer in training, focused on Frontend</strong> 
 
  <p>Creator of intuitive, interactive, accessible, and attractive interfaces.
