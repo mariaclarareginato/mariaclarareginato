@@ -21,7 +21,7 @@ Cultivating creativity through swimming, the arts in general, and Formula 1 — 
 <br>
 
 <div align="center">
-  <img width="600" height="350" alt="Imagem" src="https://github.com/user-attachments/assets/5142bb2d-95f2-46fb-a467-691026c8a71a" />
+  <img width="600" height="350" alt="Imagem" src="gifreadme.gif" />
 </div>
 <br>
 <br>
