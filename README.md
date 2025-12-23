@@ -20,8 +20,9 @@ Cultivating creativity through swimming, the arts in general, and Formula 1 — 
 <br>
 
 <div align="center">
-  <img alt="gif" width="500px" src="./study.gif">
+  <img alt="Imagem" width="500px" src="./img.png">
 </div>
+<br>
 <br>
 
 
