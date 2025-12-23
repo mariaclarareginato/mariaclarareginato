@@ -10,6 +10,7 @@ Sempre explorando novas tecnologias e soluções criativas. Cultivando criativid
 
 <br>
 
+
 <strong>Systems Developer in training, focused on Frontend</strong> 
 
  <p>Creator of intuitive, interactive, accessible, and attractive interfaces.
@@ -20,7 +21,7 @@ Cultivating creativity through swimming, the arts in general, and Formula 1 — 
 <br>
 
 <div align="center">
-  <img alt="Imagem" width="500px" src="./img.png">
+  <img width="600" height="350" alt="Imagem" src="https://github.com/user-attachments/assets/5142bb2d-95f2-46fb-a467-691026c8a71a" />
 </div>
 <br>
 <br>
