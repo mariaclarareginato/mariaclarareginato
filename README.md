@@ -4,14 +4,14 @@
 <br>
 
 
-<strong>Desenvolvedora de Sistemas em formação, com foco em Frontend </strong> 
+<strong>Técnica em Desenvolvimento de Sistemas, com foco em Frontend </strong> 
 <p> Criadora de interfaces intuitivas, interativas, acessíveis e atraentes. 
 Sempre explorando novas tecnologias e soluções criativas. Cultivando criatividade através da natação, das artes em geral e da Fórmula 1 — hobbies que trazem equilíbrio, foco e um olhar sensível para soluções inovadoras.</p>
 
 <br>
 
 
-<strong>Systems Developer in training, focused on Frontend</strong> 
+<strong>Systems Development Technician, focused on Frontend</strong> 
 
  <p>Creator of intuitive, interactive, accessible, and attractive interfaces.
 Always exploring new technologies and creative solutions.
